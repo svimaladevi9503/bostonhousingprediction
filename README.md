@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Boston Housing Price Prediction
 Overview
 This project uses Linear Regression to predict housing prices based on the Boston Housing dataset from Kaggle. It includes data loading, preprocessing, visualization, model training, and evaluation using Python libraries such as NumPy, Pandas, Seaborn, Matplotlib, and scikit-learn.
@@ -55,3 +56,7 @@ Add support for other regression models (Ridge, Lasso, Decision Tree)
 Visualize prediction results
 
 Deploy the model using Streamlit or Flask
+=======
+# bostonhousingprediction
+Predicting Boston housing prices using Linear Regression on the Kaggle dataset. Includes data cleaning, visualization with Seaborn/Matplotlib, and model evaluation using scikit-learn. A beginner-friendly project for exploring regression techniques.
+>>>>>>> 31458cb4ee5c30110d8bca59d61aaf25e89526ad

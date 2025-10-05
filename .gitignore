@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / cache
 __pycache__/
 *.py[cod]
@@ -17,3 +18,23 @@ Thumbs.db
 .env
 *.sqlite3
 *.db
+=======
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> 31458cb4ee5c30110d8bca59d61aaf25e89526ad
